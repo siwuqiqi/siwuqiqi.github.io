@@ -1,5 +1,5 @@
 $(function(){
-    // µã»÷µÇÂ¼°´Å¥µ¯³öµÇÂ¼µ¯¿ò
+    // ç‚¹å‡»ç™»å½•æŒ‰é’®å¼¹å‡ºç™»å½•å¼¹æ¡†
     $("#login_alert").click(function(){
         if($("#member_menu_bg").css("display") == "block"){
             $("#member_menu_bg").css("display",'none');
@@ -59,12 +59,12 @@ function account_login(){
     }
 }
 
-// Î¢ĞÅµÇÂ¼
+// å¾®ä¿¡ç™»å½•
 function android_wx_login(url){
     android.wxLogin(url);   
 }
 
-// Ìá½»
+// æäº¤
 function login_alert_submit(obj){
     $(obj).html($weisiteLa.DengLuZhong);
     $(obj).attr("disabled",true);
@@ -214,7 +214,7 @@ function check_name(){
         // iLoginErrorCount++;
         return false;
     // }else if(public.yzUsername(username)==false){
-    //     alert_frame("ÕËºÅÎª6-20¸ö×Ö·û(×ÖÄ¸/Êı×Ö/ÏÂ»®Ïß)123£¡");
+    //     alert_frame("è´¦å·ä¸º6-20ä¸ªå­—ç¬¦(å­—æ¯/æ•°å­—/ä¸‹åˆ’çº¿)123ï¼");
     //     // iLoginErrorCount++;
     //     return false
     }else{
@@ -266,25 +266,25 @@ function getVcode2(){
 }
 $(function(){
     // $('#login_name').on('blur',function(){
-    //     $(".button_a").html("µÇÂ¼");
+    //     $(".button_a").html("ç™»å½•");
     //     $(".button_a").attr("disabled",false);
     //     check_name();
     // });
 
     // $('#login_pwd').on('blur',function(){
-    //     $(".button_a").html("µÇÂ¼");
+    //     $(".button_a").html("ç™»å½•");
     //     $(".button_a").attr("disabled",false);
     //     check_pwd();
     // });
 
     // $('#mobile').on('blur',function(){
-    //     $(".button_a").html("µÇÂ¼");
+    //     $(".button_a").html("ç™»å½•");
     //     $(".button_a").attr("disabled",false);
     //     check_mobile();
     // });
 
     // $('#mobilecode').on('blur',function(){
-    //     $(".button_a").html("µÇÂ¼");
+    //     $(".button_a").html("ç™»å½•");
     //     $(".button_a").attr("disabled",false);
     //     check_mobilecode();
     // });
