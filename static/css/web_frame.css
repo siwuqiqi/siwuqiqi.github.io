@@ -2397,7 +2397,7 @@ a{text-decoration:none; -webkit-tap-highlight-color:rgba(0,0,0,0);}
 .Mo_Store .ev_jifen_wen { line-height: 24px; border-top: 1px dotted #ccc; margin: 10px 0 10px 10px; }
 .Mo_Store .ev_jifen_wen li { line-height: 24px; margin: 5px 10px; }
 .Mo_Store .ev_jifen_wen li p { vertical-align: middle; text-align: left; padding: 0px; line-height: 24px; height: 100%; display: table-cell; }
-.Mo_Store .ev_jifen_wen li i { background: url(../image/icon1.png) no-repeat center top; border-radius: 40px; display: block; height: 16px; width: 20px; margin-right: 5px; background-size: 16px; }
+.Mo_Store .ev_jifen_wen li i { background: url(../image/icon.png) no-repeat center top; border-radius: 40px; display: block; height: 16px; width: 20px; margin-right: 5px; background-size: 16px; }
 .Mo_Store .ev_jifen_wen li.li_add i{ background-position: center 0px; }
 .Mo_Store .ev_jifen_wen li.li_tel i{ background-position: center -16px; }
 .Mo_Store .ev_jifen_wen li.li_ditu i{ background-position: center -32px; }
@@ -3409,7 +3409,7 @@ a{text-decoration:none; -webkit-tap-highlight-color:rgba(0,0,0,0);}
 .Mo_Forum .data_center{ width:100%; background-color:#FFF;border-top:1px solid #e1e1e1;}
 .Mo_Forum .data_tit{ width:100%; overflow:hidden; border-bottom:1px solid #e1e1e1;}
 .Mo_Forum .data_tit a{ display:block; width:50%; float:left; text-align:center;color:#333;}
-.Mo_Forum .data_tit a:nth-child(1){ background:url(../image/border1.jpg) repeat-y right top;}
+.Mo_Forum .data_tit a:nth-child(1){ background:url(../image/border.jpg) repeat-y right top;}
 .Mo_Forum .data_tit .cur{color:#ff9900; border-bottom:2px solid #ff9900}
 .Mo_Forum .data_con{ width:100%;}
 .Mo_Forum .data_Post{ width:100%; border-bottom:1px solid #ededed;padding:10px 0;}
