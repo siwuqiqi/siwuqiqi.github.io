@@ -58,10 +58,10 @@ a{color:#222;}
 					.ev_t_top .ev_t_top_a .ev_t_top_cart b{background:#E13D34;color:#fff;}
 						.ev_t_top_search_div .ev_t_top_search_a .ev_t_top_search_input a{background:url(../image/search2.png) no-repeat;background-size:19px 100%;}
 
-					.ev_t_product_pj_t .ev_t_product_run{background:url(../image/run1.png) no-repeat;background-size:21px 100%;}
+					.ev_t_product_pj_t .ev_t_product_run{background:url(../image/run.png) no-repeat;background-size:21px 100%;}
 					.ev_t_product_pj_t .ev_t_product_run2{background:url(../image/run2.png) no-repeat;background-size:21px 100%;}
-					.ev_t_big .ev_t_product_pj_t .ev_t_product_run{background:url(../image/run1.png) no-repeat;background-size:21px 100%;}
-					.ev_t_product_pj_t .ev_t_product_more{background:url(../image/more1.png) no-repeat;background-size:22px 100%;}
+					.ev_t_big .ev_t_product_pj_t .ev_t_product_run{background:url(../image/run.png) no-repeat;background-size:21px 100%;}
+					.ev_t_product_pj_t .ev_t_product_more{background:url(../image/more.png) no-repeat;background-size:22px 100%;}
 
 
 	.ev_t_bg_bj{background:#000;opacity:0.3;filter:alpha(opacity=30);}
@@ -105,8 +105,8 @@ a{color:#222;}
 
 							.ev_t_product_xq_car .ev_t_product_xq_tit .t .ev_t_product_xq_sl .ev_t_shu{border-radius:5px;border:2px solid #ADADAD;color:#5f646e;}
 
-								.ev_t_product_xq_car .ev_t_product_yy_c .ev_t_product_xq_sl .ev_t_jia{background:url(../image/jia21.png) no-repeat;background-size:25px 100%;}
-								.ev_t_product_xq_car .ev_t_product_yy_c .ev_t_product_xq_sl .ev_t_jian{background:url(../image/jian21.png) no-repeat;background-size:25px 100%;}
+								.ev_t_product_xq_car .ev_t_product_yy_c .ev_t_product_xq_sl .ev_t_jia{background:url(../image/jia2.png) no-repeat;background-size:25px 100%;}
+								.ev_t_product_xq_car .ev_t_product_yy_c .ev_t_product_xq_sl .ev_t_jian{background:url(../image/jian2.png) no-repeat;background-size:25px 100%;}
 								.ev_t_product_xq_car .ev_t_product_yy_c .ev_t_product_xq_sl .ev_t_shu{border:2px solid #EFEFEF;color:#5f646e;}
 									.ev_t_product_xq_car .ev_t_product_yy_c .ev_t_product_xq_sc{border-radius:5px;border:1px solid #dd627e;color:#dd627e;}
 										.ev_t_product_xq_car .ev_t_product_yy_c .ev_t_product_xq_sc a{color:#dd627e;}
@@ -543,7 +543,7 @@ a{color:#222;}
 
 						.ev_t_wei_ul li{border-top:1px solid #ECECEC;}
 						.ev_t_wei_ul .ev_t_wei_li{border-top:0;}
-							.ev_t_wei_ul li i{background:url(../image/wei_ico1.png) no-repeat;background-size: 24px 198px;}
+							.ev_t_wei_ul li i{background:url(../image/wei_ico.png) no-repeat;background-size: 24px 198px;}
 							.ev_t_wei_ul li .ev_t_wei_i1{background-position:0 0;background-size:26px 222px;}
 							.ev_t_wei_ul li .ev_t_wei_i2{background-position:0 -24px; }
 							.ev_t_wei_ul li .ev_t_wei_i3{background-position:0 -48px; background-size: 26px 194px;}
