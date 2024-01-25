@@ -125,14 +125,14 @@ a{text-decoration:none; -webkit-tap-highlight-color:rgba(0,0,0,0);}
 /**bannerPic 淡入淡出布局**/
 .banner-pic-1{position:relative; width:100%; height:100%;}
 .banner-pic-1 li{background-position:center center; background-repeat:no-repeat; display:block;background-size:cover; height:150px;}
-.banner-pic-1 li a{display:block; background:url(about:blank); width:100%; height:100%; margin:0px auto; outline:none; background:url(../image/loading2.gif) no-repeat center center;}
+.banner-pic-1 li a{display:block; background:url(about:blank); width:100%; height:100%; margin:0px auto; outline:none; background:url(../image/loading.gif) no-repeat center center;}
 /**bannerPic 左右移动布局**/
 .banner-pic-2{ overflow:hidden;}
 .banner-pic-2 li{background-position:center center; background-repeat:no-repeat; background-size:cover; height:150px;}
-.banner-pic-2 li a{display:block; background:url(about:blank); width:100%; height:100%; margin:0px auto; outline:none;background:url(../image/loading2.gif) no-repeat center center; }
+.banner-pic-2 li a{display:block; background:url(about:blank); width:100%; height:100%; margin:0px auto; outline:none;background:url(../image/loading.gif) no-repeat center center; }
 /**bannerPic 上下移动布局**/
 .banner-pic-3{position:absolute;left:0px; top:0px; width:100%;}
-.banner-pic-3 li{background-image:url(../image/loading2.gif); background-position:center center; background-repeat:no-repeat; width:100%;background-size:cover;}
+.banner-pic-3 li{background-image:url(../image/loading.gif); background-position:center center; background-repeat:no-repeat; width:100%;background-size:cover;}
 .banner-pic-3 li a{display:block; background:url(about:blank); width:100%; height:100%; margin:0px auto; outline:none;}
 /**banner 圆点**/
 .banner-nav-1{position:absolute; right:0px; height:15px; bottom:0px; width:100%; z-index:10;text-align:center;}
@@ -817,7 +817,7 @@ a{text-decoration:none; -webkit-tap-highlight-color:rgba(0,0,0,0);}
 .Mo_1017 .MoBody{border-width:0px; border-style:solid;}
 /*.movePicShow .MoBodyC{margin:5px 10px;}*/
 .movePicShow ul li{overflow: hidden; position: relative;}
-.movePicShow .bannerTit{position: absolute; left:0; right:0; bottom:0; z-index: 1; padding:0 10px; height:32px; line-height: 32px; overflow: hidden; text-align: center; color:#fff; background-image: url('../image/banner_bg.png');}
+.movePicShow .bannerTit{position: absolute; left:0; right:0; bottom:0; z-index: 1; padding:0 10px; height:32px; line-height: 32px; overflow: hidden; text-align: center; color:#fff; background-image: url('../image/banner_tit_bg.png');}
 
 
 /**--Mo_1018 basic setting--**/
@@ -2243,7 +2243,7 @@ a{text-decoration:none; -webkit-tap-highlight-color:rgba(0,0,0,0);}
 .tab_chanpin{ width:48.5%}
 .chanpin_div{ width:99%; border:1px solid #EDEDED; margin-bottom:10px; overflow: hidden;}
 .chanpin_div span{ display:block; width:100%; position: relative;}
-.chanpin_div span .tit_date{background: url('../image/banner_bg.png'); width:100%; height:22px; line-height: 22px; overflow: hidden; position: absolute; bottom:0; left:0; color:#fff; text-align: center;}
+.chanpin_div span .tit_date{background: url('../image/banner_tit_bg.png'); width:100%; height:22px; line-height: 22px; overflow: hidden; position: absolute; bottom:0; left:0; color:#fff; text-align: center;}
 .chanpin_div span img{ width:100%; vertical-align:middle; text-align:center}
 .chanpin_div label ,.chanpin_div strong ,.chanpin_div p{ display:block; width:96%; margin:0 auto}
 .chanpin_div label{color:#444444; font-size:1em; line-height:28px; margin-top:10px;}
@@ -2330,7 +2330,7 @@ a{text-decoration:none; -webkit-tap-highlight-color:rgba(0,0,0,0);}
 .Mo_IntegralMall .newPrice font { color: #FF0000; font-size: 12px; }
 .Mo_IntegralMall .newPrice b { font-weight:400; color: #666; font-size: 12px; font-weight:400; }
 .Mo_IntegralMall .oldPrice { margin-right: 1em; float: right; font-weight: 700; line-height: 40px; text-decoration: none !important; color: #ccc; }
-.Mo_IntegralMall .oldPrice a { display: block; width: 73px; height: 26px; float: right; font-weight: 700; line-height: 26px; color: #fff; text-align: center; margin-top: 7px; background: url(../image/button.png) no-repeat; }
+.Mo_IntegralMall .oldPrice a { display: block; width: 73px; height: 26px; float: right; font-weight: 700; line-height: 26px; color: #fff; text-align: center; margin-top: 7px; background: url(../image/button2.png) no-repeat; }
 
 /*限时购*/
 .Mo_SetTime{padding-top:10px;}
@@ -3292,7 +3292,7 @@ a{text-decoration:none; -webkit-tap-highlight-color:rgba(0,0,0,0);}
 .Mo_Forum .Three_div p{ display:block; width:31.33%; margin-right:2%; float:left; overflow:hidden;}
 .Mo_Forum .Three_div p label{ display:block; width:100%; overflow:hidden; margin-bottom:10px;}
 .Mo_Forum .Three_div p label img{width:initial; height:100%;}
-.Mo_Forum .Three_div em{position: absolute; right:0; bottom:0; padding:0 10px; background:url('../image/banner_bg.png'); color:#fff;}
+.Mo_Forum .Three_div em{position: absolute; right:0; bottom:0; padding:0 10px; background:url('../image/banner_tit_bg.png'); color:#fff;}
 .Mo_Forum .icon_a{ width:100%; overflow:hidden; margin-top:0px;}
 .Mo_Forum .icon_a a{ float:right; margin-left:15px; overflow:hidden}
 .Mo_Forum .icon_a a i{color:#888; float:left}
@@ -3473,7 +3473,7 @@ a{text-decoration:none; -webkit-tap-highlight-color:rgba(0,0,0,0);}
 
 /*举报*/
 .reportAlt{position: fixed; bottom: 50px; right:10px; z-index: 999;}
-.reportAlt a{ background:url('../image/banner_bg.png'); display: inline-block; width:65px; height:25px; line-height: 25px; text-align: center; color:#fff; overflow: hidden; border-radius: 5em;}
+.reportAlt a{ background:url('../image/banner_tit_bg.png'); display: inline-block; width:65px; height:25px; line-height: 25px; text-align: center; color:#fff; overflow: hidden; border-radius: 5em;}
 
 /* 行业o2o */
 .Mo_O2o .o2o_list1 ul li { margin-bottom: 10px; background: #fff; border:0;}
